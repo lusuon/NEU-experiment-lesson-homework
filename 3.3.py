@@ -21,6 +21,7 @@ while Try=='Y'or Try=='y':
         wrong+=1
         print('The range is:[',minus,maxium,']')
     if wrong ==3:
+        minus,maxium=1,100
         wrong = 0
         time+=1
         Try=input(('You have wrong 3 times and the right answer is:',Random,'Try again?(Y) or give up(Press any key not Y))'))

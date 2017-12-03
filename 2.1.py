@@ -6,7 +6,7 @@ a5=eval(input('Enter the fifth number'))
 print ('The sum is:',a1+a2+a3+a4+a5)
 
 #Improved version as follow:
-print(Another verison:)
+print("Another verison:")
 time = 11
 list=[]
 SUM=0

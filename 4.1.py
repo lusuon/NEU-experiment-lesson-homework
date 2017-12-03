@@ -12,7 +12,7 @@ for i in scores:
         fail+=1
 print("Passer(60~90):",passer,"Great guys(>=90):",passer+great,"Loser:",fail)
 
-
+'''
 count,passer,great,fail=1,0,0,0
 scores=[]
 while count<=30 then
@@ -27,3 +27,4 @@ for i in scores :
         fail++
 Write "Passer(60~90):"+passer+"Great guys(>=90):"+passer+great+"Loser:"+fail
 
+'''

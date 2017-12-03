@@ -39,3 +39,4 @@ for (b=string[0];b<=string[-1];b++)
         other++
 Write "letters:"+eng,"numbers:"+num,"space:"+space,"others:"+other
 
+'''

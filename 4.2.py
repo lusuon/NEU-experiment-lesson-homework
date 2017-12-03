@@ -24,3 +24,4 @@ else:
 Write "The result of plus:"+(a+b)
 b=a
 Write "The result os copy(first->second):"+b
+ '''

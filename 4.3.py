@@ -29,9 +29,3 @@ for j in MC:
 
 
 
-'''
-    for count in range(n):
-        SUM+=MA[COUNT][count]*MB[count][C]
-    MCr.append(SUM)
-    SUM=0
-'''
