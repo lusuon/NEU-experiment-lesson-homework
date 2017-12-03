@@ -1,7 +1,7 @@
 DoM = [31,28,31,30,31,30,31,31,30,31,30,31]
 WEEK=['SUN','MON','TUE','WED','THU','FRI','SAT']
 yy=eval(input('Enter the year:'))
-if yy%100==0:
+if yy%100==0 and yy%4!=0:
     pass
 elif yy%4==0:
     DoM[1]=29
